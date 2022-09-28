@@ -1,13 +1,13 @@
-# CFAF480128A0-039Tx-A1
+# CFA240400E1-030TC/CFA240400E1-030TN
 
-Code for the Crystalfontz [CFA240320E1-030TC](https://www.crystalfontz.com/product/CFA240320E1030TC) and [CFA240320E1-030TN](https://www.crystalfontz.com/product/CFA240320E1030TN).  
+Code for the Crystalfontz [CFA240400E1-030TC](https://www.crystalfontz.com/product/CFA240400E1030TC) and [CFA240400E1-030TN](https://www.crystalfontz.com/product/CFA240400E1030TN).  
 These displays are 3.0in 240x400 TFTs.  
 
 Example Seeeduino (Arduino clone) software.   
   
 Kits for these products can be found here:  
-https://www.crystalfontz.com/product/CFA240320E1030TCKIT
-https://www.crystalfontz.com/product/CFA240320E1030TNKIT
+https://www.crystalfontz.com/product/CFA240400E1030TCKIT
+https://www.crystalfontz.com/product/CFA240400E1030TNKIT
 
 ## Navigating the Code
 
