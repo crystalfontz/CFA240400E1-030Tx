@@ -26,12 +26,12 @@ To toggle on or off different demonstrations, some defines in "CFA10097_defines.
 #define TOUCH_DEMO           (0)
 ```
 
-`BMP_DEMO` - Toggled to 1 will look to the uSD card to pull the "SPLASH.RAW" file and display it 
-`BMP_SCROLL` - Toggled to 1 will look to the uSD card to pull the "CLOUDS.RAW" file and display it scrolling accross the screen
-`LOGO_DEMO` - Toggled to 1 will display the Crystalfontz Logo from flash
-`BOUNCE_DEMO` - Toggled to 1 will show a ball bouncing around the screen
-`MARBLE_DEMO` - Toggled to 1 will look in the uSD card and pull "BLUEMARB.RAW" and demonstrate the earth rotating and bouncing around in screen in place of the ball
-`TOUCH_DEMO` - Toggled to 1 will enable the touch screen (only compatible on touch versions of the display)
+`BMP_DEMO` - Toggled to 1 will look to the uSD card to pull the "SPLASH.RAW" file and display it\
+`BMP_SCROLL` - Toggled to 1 will look to the uSD card to pull the "CLOUDS.RAW" file and display it scrolling accross the screen\
+`LOGO_DEMO` - Toggled to 1 will display the Crystalfontz Logo from flash\
+`BOUNCE_DEMO` - Toggled to 1 will show a ball bouncing around the screen\
+`MARBLE_DEMO` - Toggled to 1 will look in the uSD card and pull "BLUEMARB.RAW" and demonstrate the earth rotating and bouncing around in screen in place of the ball\
+`TOUCH_DEMO` - Toggled to 1 will enable the touch screen (only compatible on touch versions of the display)\
 
 
 ## Connection Details
