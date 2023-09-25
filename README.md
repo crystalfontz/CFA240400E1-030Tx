@@ -33,6 +33,7 @@ To toggle on or off different demonstrations, some defines in "CFA10097_defines.
 `MARBLE_DEMO` - Toggled to 1 will look in the uSD card and pull "BLUEMARB.RAW" and demonstrate the earth rotating and bouncing around in screen in place of the ball\
 `TOUCH_DEMO` - Toggled to 1 will enable the touch screen (only compatible on touch versions of the display)\
 
+For an in-depth guide to loading custom images on our EVE lineup of displays, please refer to our blog post [available here](https://www.crystalfontz.com/blog/custom-images-on-eve-displays/).
 
 ## Connection Details
 #### To [CFA10098 Adapter Board](https://www.crystalfontz.com/product/cfa10098-eve-breakout-board) (See kits above)
